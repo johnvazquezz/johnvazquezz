@@ -1,5 +1,6 @@
-### Hi there 👋
-🌱 I’m currently learning Github  
+### Hi there, My name is John 👋
+-🧑🏻‍💻 I'm software enginner\
+-🐈 I’m currently learning NestJS 
 <!--
 **johnvazquezz/johnvazquezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
